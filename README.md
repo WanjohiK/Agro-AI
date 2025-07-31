@@ -68,6 +68,11 @@ To classify crop diseases from images, we experimented with two primary convolut
 
 <img width="790" height="547" alt="image" src="https://github.com/user-attachments/assets/ee4e16c0-e6d8-4188-a5e2-aa776dcd7046" />
 
+#### sample example of results
+
+"C:\Users\Fluxtech\Downloads\Screenshot 2025-05-05 142305 (1).png"
+
+
 
 ----
 ### Visualizations
