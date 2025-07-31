@@ -64,6 +64,8 @@ To classify crop diseases from images, we experimented with two primary convolut
 | Custom CNN  | \~85%     | \~0.83     | Lightweight, but less accurate        |
 | InceptionV3 | **\~99%** | **\~0.99** | Best performer, strong generalization |
 
+#### Sample Classification report for inceptionv3
+
 <img width="790" height="547" alt="image" src="https://github.com/user-attachments/assets/ee4e16c0-e6d8-4188-a5e2-aa776dcd7046" />
 
 
@@ -80,6 +82,9 @@ The notebooks/ directory contains Jupyter notebooks with:
 A few misclassifications occur:
 - curvulariosis_d has 2 misclassifications with healthy_leaf and stripe_d.
 - stripe_d has some misclassifications with spodoptera_frugiperda_d (4), curvulariosis_d (3), and heminthosporiosis_d (2), but these are low compared to the total instances.
+  
+<img width="1306" height="1189" alt="image" src="https://github.com/user-attachments/assets/9bd2a9df-59e2-4744-ad9c-37fea8dde570" />
+
 #### Class Imbalance:
 - The model performs consistently across classes with no significant imbalances, ensuring reliable classification without bias.
 #### Small Error Margins:
