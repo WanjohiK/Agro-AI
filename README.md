@@ -61,8 +61,11 @@ To classify crop diseases from images, we experimented with two primary convolut
 ### 🏆 Performance Summary
 | Model       | Accuracy  | F1 Score   | Remarks                               |
 | ----------- | --------- | ---------- | ------------------------------------- |
-| Custom CNN  | \~85%     | \~0.83     | Lightweight, but less accurate        |
+| Custom CNN  | \~97%     | \~0.97     | Lightweight, but less accurate        |
 | InceptionV3 | **\~99%** | **\~0.99** | Best performer, strong generalization |
+
+#### Test for overfitting
+The model achieved exceptionally high performance, with training accuracy reaching 99.73% and validation accuracy peaking at 99.61% implying there was no overfitting
 
 #### Sample Classification report for inceptionv3
 
