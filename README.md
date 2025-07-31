@@ -1,4 +1,4 @@
-# Crop Disease Prediction AI
+# Crop Disease Prediction AI (Computer Vision)
 ## Overview
 This project focuses on developing an AI-driven system to detect and classify crop diseases from leaf images, specifically targeting maize, tomato, and onion. Utilizing a fine-tuned InceptionV3 and Custom CNN deep learning model, the system not only identifies diseases but also provides tailored treatment and prevention recommendations, aiming to assist farmers and agricultural professionals in early disease detection and management.
 
