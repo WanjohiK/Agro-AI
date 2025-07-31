@@ -73,7 +73,8 @@ To classify crop diseases from images, we experimented with two primary convolut
 <img width="857" height="471" alt="Screenshot 2025-05-05 142305 (1)" src="https://github.com/user-attachments/assets/ab6fd2ba-924c-4e0e-8bb8-d35075939289" />
 <img width="817" height="755" alt="Screenshot 2025-05-05 142246" src="https://github.com/user-attachments/assets/ff866a16-3a90-4966-a0cc-1d949e687117" />
 <img width="852" height="303" alt="Screenshot 2025-05-05 142159" src="https://github.com/user-attachments/assets/d7e6e5f6-4dde-4a6a-881c-a7821d7eb63b" />
-<img width="851" height="739" alt="Screenshot 2025-05-05 142141" src="https://github.com/user-attachments/assets/d2a6a011-fe25-48fe-802a-dcf228e5297f" />
+
+
 ----
 ### Visualizations
 The notebooks/ directory contains Jupyter notebooks with:
