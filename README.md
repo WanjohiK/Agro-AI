@@ -62,7 +62,7 @@ To classify crop diseases from images, we experimented with two primary convolut
 | Model       | Accuracy  | F1 Score   | Remarks                               |
 | ----------- | --------- | ---------- | ------------------------------------- |
 | Custom CNN  | \~85%     | \~0.83     | Lightweight, but less accurate        |
-| InceptionV3 | **\~91%** | **\~0.89** | Best performer, strong generalization |
+| InceptionV3 | **\~99%** | **\~0.99** | Best performer, strong generalization |
 
 ----
 ### Visualizations
