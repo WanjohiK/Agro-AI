@@ -64,6 +64,9 @@ To classify crop diseases from images, we experimented with two primary convolut
 | Custom CNN  | \~85%     | \~0.83     | Lightweight, but less accurate        |
 | InceptionV3 | **\~99%** | **\~0.99** | Best performer, strong generalization |
 
+<img width="790" height="547" alt="image" src="https://github.com/user-attachments/assets/ee4e16c0-e6d8-4188-a5e2-aa776dcd7046" />
+
+
 ----
 ### Visualizations
 The notebooks/ directory contains Jupyter notebooks with:
